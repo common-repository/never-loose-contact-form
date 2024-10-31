@@ -1,0 +1,149 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Never Loose Contact Form\n"
+"POT-Creation-Date: 2020-10-25 18:43+0000\n"
+"PO-Revision-Date: 2020-10-25 18:43+0000\n"
+"Last-Translator: Andy Moyle <clients@themoyles.co.uk>\n"
+"Language-Team: \n"
+"Language: en_GB\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SearchPath-0: index.php\n"
+
+#: index.php:50
+msgid "Contact Form "
+msgstr ""
+
+#: index.php:50
+msgid "Today"
+msgstr ""
+
+#: index.php:51
+msgid "Settings"
+msgstr ""
+
+#: index.php:80
+msgid "You haven't left a message"
+msgstr ""
+
+#: index.php:85
+msgid "You haven't left an email address for reply"
+msgstr ""
+
+#: index.php:90
+msgid "You haven't left a name"
+msgstr ""
+
+#: index.php:94
+msgid "You appear to be a spammer, so the message wasn't sent"
+msgstr ""
+
+#: index.php:98
+msgid ""
+"Message was not sent. There were too many web links in it - makes it look "
+"like you are a spammer."
+msgstr ""
+
+#: index.php:103 index.php:107
+msgid ""
+"Message was not sent. Web links in the subject is a pretty spammy thing to "
+"do."
+msgstr ""
+
+#: index.php:112
+msgid "Your email address doesn't look like an email address"
+msgstr ""
+
+#: index.php:117
+msgid "You seem to be a bot."
+msgstr ""
+
+#: index.php:121
+msgid "Your message has not been sent, due to some errors"
+msgstr ""
+
+#: index.php:142 index.php:252
+msgid "Name"
+msgstr ""
+
+#: index.php:143 index.php:184 index.php:252
+msgid "Email"
+msgstr ""
+
+#: index.php:144
+msgid "IP Address"
+msgstr ""
+
+#: index.php:145 index.php:196
+msgid "Message"
+msgstr ""
+
+#: index.php:153
+msgid "Your message has  been sent, thank you. We will be in touch soon."
+msgstr ""
+
+#: index.php:192 index.php:262
+msgid "Subject"
+msgstr ""
+
+#: index.php:202
+msgid "Send Message"
+msgstr ""
+
+#: index.php:204
+msgid "This contact form only works with Javascript enabled"
+msgstr ""
+
+#: index.php:250
+msgid "Contact Form Messages"
+msgstr ""
+
+#: index.php:251
+#, php-format
+msgid "You have been protected from %1$s spam messages"
+msgstr ""
+
+#: index.php:252
+msgid "Delete"
+msgstr ""
+
+#: index.php:252
+msgid "Date Posted"
+msgstr ""
+
+#: index.php:252
+msgid "Comment"
+msgstr ""
+
+#: index.php:252
+msgid "Read"
+msgstr ""
+
+#: index.php:262
+msgid "View complete message"
+msgstr ""
+
+#: index.php:262
+msgid "Message from"
+msgstr ""
+
+#: index.php:262
+msgid "Posted"
+msgstr ""
+
+#: index.php:262
+msgid "From"
+msgstr ""
+
+#: index.php:343
+msgid "Contact us"
+msgstr ""
+
+#: index.php:344
+msgid "Contact form"
+msgstr ""
